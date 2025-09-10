@@ -29,7 +29,7 @@ I build **BotWithUs scripts**, custom RSPS features, and game-related tools.
 
 ## 📂 Featured Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OogleOG&repo=Nebula-Dash&theme=radical)]([https://github.com/OogleOG/rs3-bwu-scripts](https://github.com/OogleOG/Nebula-Dash))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OogleOG&repo=rs3-cook&theme=radical)]([https://github.com/OogleOG/rs3-cook](https://github.com/OogleOG/rs3-cook))
 
 ---
 
