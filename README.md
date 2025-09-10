@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="A_digital_graphic_design_banner_features_a_clean,_.png" alt="OogleOG Banner" width="100%">
+  <img src="image.png" alt="OogleOG Banner" width="100%">
 </p>
 
 # 👋 Hey, I’m OogleOG
@@ -29,7 +29,7 @@ I build **BotWithUs scripts**, custom RSPS features, and game-related tools.
 
 ## 📂 Featured Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OogleOG&repo=rs3-bwu-scripts&theme=radical)](https://github.com/OogleOG/rs3-bwu-scripts)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OogleOG&repo=Nebula-Dash&theme=radical)]([https://github.com/OogleOG/rs3-bwu-scripts](https://github.com/OogleOG/Nebula-Dash))
 
 ---
 
