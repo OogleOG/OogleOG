@@ -8,12 +8,8 @@ I build **BotWithUs scripts**, custom RSPS features, and game-related tools.
 
 ---
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-
-![OogleOG's GitHub stats](https://github-readme-stats.vercel.app/api?username=OogleOG&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OogleOG&layout=compact&theme=radical)
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b62f595b-eca3-46e1-8dcb-bb17f4853b5d" />
 
@@ -54,6 +50,6 @@ I build **BotWithUs scripts**, custom RSPS features, and game-related tools.
 ---
 ⭐ If you like my projects, consider giving them a **star**!
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 [![GitHub Streak](https://streak-stats.demolab.com?user=OogleOG&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![OogleOG's GitHub stats](https://github-readme-stats.vercel.app/api?username=OogleOG&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OogleOG&layout=compact&theme=radical)
