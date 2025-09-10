@@ -49,7 +49,7 @@ I build **BotWithUs scripts**, custom RSPS features, and game-related tools.
 ---
 
 ## 📫 Connect
-[![Discord](https://img.shields.io/badge/Discord-OogleOG-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yourID)
+[![Discord](https://img.shields.io/badge/Discord-OogleOG-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/oogleb)
 [![GitHub](https://img.shields.io/badge/GitHub-OogleOG-181717?style=for-the-badge&logo=github)](https://github.com/OogleOG)
 
 ---
