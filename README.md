@@ -1,17 +1,11 @@
+<p align="center">
+  <img src="A_digital_graphic_design_banner_features_a_clean,_.png" alt="OogleOG Banner" width="100%">
+</p>
+
 # 👋 Hey, I’m OogleOG
 
-![Profile Views](https://komarev.com/ghpvc/?username=OogleOG&style=flat-square)
-
-
 🎮 Developer focused on **RuneScape 3 automation** and **RSPS (private server) development**.  
-I build **BotWithUs scripts**, custom RSPS features, and game-related tools.
-
----
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b62f595b-eca3-46e1-8dcb-bb17f4853b5d" />
+I build **BotWithUs scripts**, custom RSPS features, and game-related tools.  
 
 ---
 
@@ -22,17 +16,28 @@ I build **BotWithUs scripts**, custom RSPS features, and game-related tools.
 
 ---
 
-## 📂 Featured Projects
-🔹 [rs3-bwu-scripts](https://github.com/OogleOG/rs3-bwu-scripts) – Collection of RS3 BotWithUs scripts  
-🔹 [RSPS projects](https://github.com/OogleOG?tab=repositories) – Custom Ruse-based and OSRS/RS3 hybrid servers  
-🔹 [OSRS Gold Exchange](#) – Web project for OSRS trading (coming soon)
+## 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🛠️ Tech I Use
-- **Languages:** Java · Python · JavaScript/TypeScript  
-- **Frameworks:** BotWithUs API · Gradle · React (with Tailwind)  
-- **Other:** GitHub Actions · IntelliJ IDEA · RuneMate/EpicBot APIs  
+## 📂 Featured Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OogleOG&repo=rs3-bwu-scripts&theme=radical)](https://github.com/OogleOG/rs3-bwu-scripts)
+
+---
+
+## 📊 GitHub Stats
+
+![OogleOG's GitHub stats](https://github-readme-stats.vercel.app/api?username=OogleOG&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OogleOG&layout=compact&theme=radical)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=OogleOG&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
@@ -44,12 +49,10 @@ I build **BotWithUs scripts**, custom RSPS features, and game-related tools.
 ---
 
 ## 📫 Connect
-- 💬 Discord: `Oogleb`
-- 🌐 Website: 'https://www.zamron.net'  
+[![Discord](https://img.shields.io/badge/Discord-OogleOG-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yourID)
+[![GitHub](https://img.shields.io/badge/GitHub-OogleOG-181717?style=for-the-badge&logo=github)](https://github.com/OogleOG)
 
 ---
-⭐ If you like my projects, consider giving them a **star**!
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=OogleOG&theme=dark&hide_border=true)](https://git.io/streak-stats)
-![OogleOG's GitHub stats](https://github-readme-stats.vercel.app/api?username=OogleOG&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OogleOG&layout=compact&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=OogleOG&style=flat-square)
+⭐ If you like my projects, consider giving them a **star**!
