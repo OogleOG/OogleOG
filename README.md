@@ -29,7 +29,7 @@ I build **BotWithUs scripts**, custom RSPS features, and game-related tools.
 
 ## 📂 Featured Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OogleOG&repo=rs3-cook&theme=radical)]([https://github.com/OogleOG/rs3-cook](https://github.com/OogleOG/rs3-cook))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OogleOG&repo=MyVault&theme=radical)]([https://github.com/OogleOG/MyVault](https://github.com/OogleOG/MyVault))
 
 ---
 
