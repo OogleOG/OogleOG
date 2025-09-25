@@ -12,7 +12,8 @@ I build **BotWithUs scripts**, RSPS, Game related tools, and many more - Check o
 ## 🚀 What I Do
 - 🧩 RS3 **BotWithUs scripts** – automation for skills, combat, and more  
 - 🛠️ **RSPS development** – custom content, systems, and economy balancing  
-- 📦 **Open-source projects** – sharing utilities, tools, and guides  
+- 📦 **Open-source projects** – sharing utilities, tools, and guides
+- And more!
 
 ---
 
