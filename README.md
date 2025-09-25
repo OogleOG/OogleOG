@@ -38,7 +38,6 @@ I build **BotWithUs scripts**, RSPS, Game related tools, and many more - Check o
 
 ![OogleOG's GitHub stats](https://github-readme-stats.vercel.app/api?username=OogleOG&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OogleOG&layout=compact&theme=radical)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=OogleOG&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
