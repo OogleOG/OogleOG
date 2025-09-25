@@ -5,7 +5,7 @@
 # 👋 Hey, I’m OogleOG
 
 🎮 Developer focused on **RuneScape 3 automation** and **RSPS (private server) development**.  
-I build **BotWithUs scripts**, custom RSPS features, and game-related tools.  
+I build **BotWithUs scripts**, RSPS, Game related tools, and many more - Check out my repo to find out.  
 
 ---
 
