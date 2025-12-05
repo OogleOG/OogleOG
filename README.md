@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image.png" alt="OogleOG Banner" width="100%">
+  <img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/1b410514-bbee-4116-9108-67f52cffcd88" />
 </p>
 
 # Hey, I'm Leighton 👋
