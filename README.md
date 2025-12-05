@@ -50,18 +50,6 @@ I build modern websites, Java applications, and automation tools. Currently runn
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OogleOG&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OogleOG&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</p>
-
----
-
 ## 💼 Services
 
 Looking for a developer? I offer:
