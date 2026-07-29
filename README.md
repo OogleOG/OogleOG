@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/1b410514-bbee-4116-9108-67f52cffcd88" />
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/2b0ed0f5-b116-477d-ab48-9b5bed28dd81" />
 </p>
 
 # Hey, I'm Leighton 👋
